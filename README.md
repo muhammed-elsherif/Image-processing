@@ -1,2 +1,2 @@
 # Image-processing
-API Resizing Images
+API Resizing Images using Node ty.
